@@ -12,4 +12,4 @@ Postup:
 **credentials.json je nutné doplniť z vášho google projektu**
 
 
-### © Erik Juríček 2020
+### © Erik Juríček 2022
